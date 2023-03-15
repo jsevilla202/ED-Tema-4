@@ -26,7 +26,7 @@ class SumaNumerosTest {
 				Arguments.of(1, 0),
 				Arguments.of(2, 1),
 				Arguments.of(3, 1),
-				Arguments.of(11, 36),
+				Arguments.of(11, 25),
 				Arguments.of(0, 0),
 				Arguments.of(-1, 0));
 		
